@@ -1,0 +1,32 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    font-weight: bold;
+    color:brown;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+.left{
+    text-align: left;
+    color: blue;
+}
+
+.center{
+    list-style-position: inside;
+    text-align: center;
+    color: blue;
+}
+
+.right{
+    list-style-position: inside;
+    text-align: right;
+    color: blue;
+}
