@@ -14,9 +14,15 @@ img{
     height: auto;
 }
 
-.left{
-    text-align: left;
-    color: blue;
+.recipe_title li{
+    display: inline;
+    margin: 120px;
+}
+
+.images img{
+    display: inline;
+    padding: 40px;
+    margin-top: -20px;
 }
 
 .center{
@@ -25,8 +31,3 @@ img{
     color: blue;
 }
 
-.right{
-    list-style-position: inside;
-    text-align: right;
-    color: blue;
-}
